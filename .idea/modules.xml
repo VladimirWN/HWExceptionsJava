@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionJava.iml" filepath="$PROJECT_DIR$/ExceptionJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/HW01/HW01.iml" filepath="$PROJECT_DIR$/HomeWork/HW01/HW01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminars/Seminars.iml" filepath="$PROJECT_DIR$/Seminars/Seminars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminars/lesson01/lesson01.iml" filepath="$PROJECT_DIR$/Seminars/lesson01/lesson01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminars/lesson02/lesson02.iml" filepath="$PROJECT_DIR$/Seminars/lesson02/lesson02.iml" />
+    </modules>
+  </component>
+</project>
