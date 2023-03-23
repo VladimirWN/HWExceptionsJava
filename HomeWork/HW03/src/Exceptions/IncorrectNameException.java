@@ -1,2 +1,7 @@
-package Exceptions;public class IncorrectNameException {
+package Exceptions;
+
+public class IncorrectNameException extends RuntimeException {
+    public IncorrectNameException(String message) {
+        super(message);
+    }
 }
